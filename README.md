@@ -6,7 +6,7 @@ Instructions
 
 1. Download the repo
 
-  `git clone <repo link>`
+  `git clone https://github.com/jherzberg/PyRSA.git`
 
 2. Run generate_keys.py in the command line
 
