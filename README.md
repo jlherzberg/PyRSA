@@ -24,7 +24,7 @@ Instructions
 
   `python decrypt_message.py <public key n> <private key d> <encrypted message>`
 
-*Only [A-Za-z] characters*
+\*Only [A-Za-z] characters*
 
 ## Update: Now intercept and decrypt your friends' messages too!
 
